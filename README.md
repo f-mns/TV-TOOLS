@@ -13,6 +13,9 @@
 
 ### Service Menu
 **Complete Power OFF** | `Info -> Menu -> Mute -> Power`
+<p align="center">
+<i><a href="https://github.com">Download</a> • <a href="https://github.com">Video</a></i>
+</p>
 
 
 > <details><summary>Disable Power OFF</summary>Option -> Production Option -> Frame TV -> ON</details>
