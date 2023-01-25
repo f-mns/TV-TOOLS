@@ -1,6 +1,8 @@
 # TV-TOOLS
 
 -   [Samsung](#samsung)
+    - [Service] (#service-menu)
+    - [Hospital] (#hospital-menu)
 -   [Sony](#sony)
 -   [Philips](#philips)
 
