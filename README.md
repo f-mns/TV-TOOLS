@@ -1,8 +1,9 @@
 # TV-TOOLS
 
-# Overview
-
 -   [Samsung](#samsung)
+-   [Sony](#sony)
+-   [Philips](#philips)
+
 
 ## Samsung 
 ⇢ Testet on: Smart TV Series 5
