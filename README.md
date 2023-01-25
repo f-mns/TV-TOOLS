@@ -1,6 +1,7 @@
 # TV-TOOLS
 
-## Samsung Smart TV Series 5
+## Samsung 
+⇢ Testet on: Smart TV Series 5
 
 ### Service Menu
 Complete Power OFF | `Info -> Menu -> Mute -> Power`
