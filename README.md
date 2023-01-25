@@ -38,7 +38,7 @@
 
 
 ## Philips
-⇢ Testet on: NOTHING
+⇢ Testet on: 40PFK6510/12
 
 ### Service Menu
 **Power ON** | `0 -> 6 -> 2 -> 5 -> 9 -> 6 -> Enter`
