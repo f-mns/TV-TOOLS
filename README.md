@@ -1,15 +1,11 @@
 # TV-TOOLS
-##### Use the transparent theme
 
-We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
+## Samsung Smart TV Series 5
 
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-```
-
+### Service Menu
+Complete Power OFF | Info -> Menu -> Mute -> Power
 <details>
-<summary>:eyes: Show example</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<summary>Disable Power OFF</summary>
+Option -> Production Option -> Frame TV -> ON
 
 </details>
