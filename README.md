@@ -39,3 +39,11 @@
 ### Service Menu
 **Power ON** | `0 -> 6 -> 2 -> 5 -> 9 -> 6 -> Enter`
 
+
+
+## LG
+⇢ Testet on: NOTHING
+
+### Service Menu
+**Power ON** | `Settings -> Settings (hold) -> 1 -> 1 -> 0 -> 5 -> Enter`
+
