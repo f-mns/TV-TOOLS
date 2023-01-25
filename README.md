@@ -6,6 +6,7 @@
 -   [Sony](#sony)
 -   [Philips](#philips)
 -   [LG](#lg)
+-   [Grundig](#grundig)
 
 
 ## Samsung 
@@ -49,5 +50,13 @@
 ⇢ Testet on: NOTHING
 
 ### Service Menu
-**Power ON** | `Settings -> Settings (hold) -> 1 -> 1 -> 0 -> 5 -> Enter`
+**Power ON** | `Menu -> Settings (hold) -> 1 -> 1 -> 0 -> 5 -> Enter`
 
+
+
+
+## Grundig
+⇢ Testet on: NOTHING
+
+### Service Menu
+**Power ON** | `Settings -> 8 -> 5 -> 0 -> 0`
