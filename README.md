@@ -5,6 +5,7 @@
     -   [Hospital](#hotel-menu)
 -   [Sony](#sony)
 -   [Philips](#philips)
+-   [LG](#lg)
 
 
 ## Samsung 
