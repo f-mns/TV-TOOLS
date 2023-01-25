@@ -6,9 +6,5 @@
 ### Service Menu
 Complete Power OFF | `Info -> Menu -> Mute -> Power`
 
-> **Note**
-> <details>
-<summary>Disable Power OFF</summary>
-Option -> Production Option -> Frame TV -> ON
 
-</details>
+> <details><summary>Disable Power OFF</summary>Option -> Production Option -> Frame TV -> ON</details>
