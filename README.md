@@ -7,6 +7,7 @@
 -   [Philips](#philips)
 -   [LG](#lg)
 -   [Grundig](#grundig)
+-   [Panasonic](#panasonic)
 
 
 ## Samsung 
@@ -58,6 +59,10 @@
 ### Service Menu
 **Power ON** | `0 -> 6 -> 2 -> 5 -> 9 -> 6 -> Enter`
 
+<p>
+<i><a href="coming.soon">Download</a> • <a href="https://youtu.be/Z3KHqbIvhN4">Video</a></i>
+</p>
+
 
 
 ## LG
@@ -65,6 +70,10 @@
 
 ### Service Menu
 **Power ON** | `Menu -> Settings (hold) -> 1 -> 1 -> 0 -> 5 -> Enter`
+
+<p>
+<i><a href="coming.soon">Download</a> • <a href="[https://youtu.be/b8ottBE0kko](https://youtu.be/ukYMsr2_sek)">Video</a></i>
+</p>
 
 
 
@@ -74,6 +83,10 @@
 
 ### Service Menu
 **Power ON** | `Settings -> 8 -> 5 -> 0 -> 0`
+
+<p>
+<i><a href="coming.soon">Download</a> • <a href="https://youtu.be/b8ottBE0kko">Video</a></i>
+</p>
 
 
 ## Panasonic 
@@ -91,3 +104,6 @@
 > 4) **Power OFF** | `Volume- (hold on tv) -> Info -> Info -> Info`
 > </details>
 
+<p>
+<i><a href="coming.soon">Download</a> • <a href="https://youtu.be/aSEGCXS8tj8">Video</a></i>
+</p>
