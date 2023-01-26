@@ -16,11 +16,11 @@
 **Complete Power OFF** | `Info -> Menu -> Mute -> Power`
 > <details><summary>Other codes</summary>
 > 2) Power OFF | Info -> Settings -> Mute -> Power
-
+> 
 > 3) Power OFF | `Mute -> 1 -> 1 -> 9 -> Power`
-
+> 
 > 4) Power OFF | `Mute + 1 + 8 + 2 + Power`
-
+> 
 > 5) Power OFF | `Sleep + P.STD + Mute + Power`
 > 
 > 6) Power OFF | `P.STD + Menu + Sleep + Power`
