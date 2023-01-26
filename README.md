@@ -15,7 +15,7 @@
 ### Service Menu
 **Complete Power OFF** | `Info -> Menu -> Mute -> Power`
 <p>
-<i><a href="https://bit.ly/3H6HAIE">Download</a> • <a href="https://youtu.be/UC1hUxKYLa8">Video</a></i>
+<i><a href="https://bit.ly/3XVC42c">Download</a> • <a href="https://youtu.be/UC1hUxKYLa8">Video</a></i>
 </p>
 
 
