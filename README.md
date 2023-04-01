@@ -59,6 +59,9 @@
 ### Service Menu
 **Power ON** | `0 -> 6 -> 2 -> 5 -> 9 -> 6 -> Enter`
 
+### CSM Menu
+**Power ON** | `1 -> 2 -> 3 -> 6 -> 5 -> 4`
+
 <p>
 <i><a href="coming.soon">Download</a> • <a href="https://youtu.be/Z3KHqbIvhN4">Video</a></i>
 </p>
