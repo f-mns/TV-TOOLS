@@ -5,9 +5,12 @@
     -   [Hospital](#hotel-menu)
 -   [Sony](#sony)
 -   [Philips](#philips)
+    -   [Service](#service-menu)
+    -   [CSM](#csm-menu)
 -   [LG](#lg)
 -   [Grundig](#grundig)
 -   [Panasonic](#panasonic)
+-   [TLC](#tlc)
 
 
 ## Samsung 
