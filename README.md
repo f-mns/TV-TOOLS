@@ -34,7 +34,7 @@
 
 
 <p>
-<i><a href="https://bit.ly/3XVC42c">Download</a> • <a href="https://youtu.be/UC1hUxKYLa8">Video</a></i>
+<i><a href="https://bit.ly/3XVC42c">Download for Flipper</a></i>
 </p>
 
 
@@ -62,10 +62,6 @@
 ### CSM Menu
 **Power ON** | `1 -> 2 -> 3 -> 6 -> 5 -> 4`
 
-<p>
-<i><a href="coming.soon">Download</a> • <a href="https://youtu.be/Z3KHqbIvhN4">Video</a></i>
-</p>
-
 
 
 ## LG
@@ -73,10 +69,6 @@
 
 ### Service Menu
 **Power ON** | `Menu -> Settings (hold) -> 1 -> 1 -> 0 -> 5 -> Enter`
-
-<p>
-<i><a href="coming.soon">Download</a> • <a href="[https://youtu.be/b8ottBE0kko](https://youtu.be/ukYMsr2_sek)">Video</a></i>
-</p>
 
 
 
@@ -87,9 +79,6 @@
 ### Service Menu
 **Power ON** | `Settings -> 8 -> 5 -> 0 -> 0`
 
-<p>
-<i><a href="coming.soon">Download</a> • <a href="https://youtu.be/b8ottBE0kko">Video</a></i>
-</p>
 
 
 ## Panasonic 
@@ -107,6 +96,16 @@
 > 4) **Power OFF** | `Volume- (hold on tv) -> Info -> Info -> Info`
 > </details>
 
-<p>
-<i><a href="coming.soon">Download</a> • <a href="https://youtu.be/aSEGCXS8tj8">Video</a></i>
-</p>
+
+## TLC 
+⇢ Testet on: NOTHING
+
+
+### Service Menu
+**Power ON, select Home, go into Settings then System and About** | `Up -> Right -> Down -> Right -> Up -> Fast Forward (3x) -> Rewind (2x) -> Back Arrow`
+
+> <details><summary>Other codes</summary>
+> 
+> 2. **Power ON (In Menu, Picture Menu, Contrast Submenu)** | `9 -> 7 -> 3 -> 5 -> FAC HOTKEY item -> enter/return `
+> 
+
