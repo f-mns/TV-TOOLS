@@ -11,6 +11,7 @@
 -   [Grundig](#grundig)
 -   [Panasonic](#panasonic)
 -   [TLC](#tlc)
+-   [Telefunken](#telefunken)
 
 
 ## Samsung 
@@ -111,4 +112,11 @@
 > 
 > 2. **Power ON (In Menu, Picture Menu, Contrast Submenu)** | `9 -> 7 -> 3 -> 5 -> FAC HOTKEY item -> enter/return `
 > 
+
+## Telefunken 
+⇢ Testet on: Unknown Model 2019
+
+
+### Service Menu
+**Power ON** | `Home -> 4 -> 7 -> 2 -> 5`
 
